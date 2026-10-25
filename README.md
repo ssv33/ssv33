@@ -12,7 +12,7 @@ I'm also experimenting with AI and lightweight applications to solve problems I 
 
 An interactive assessment that identifies where a company's positioning, messaging, and buyer journey fall out of alignment across its website and owned digital channels. The value to the CMO/CRO/CEO trio: Storyline helps me pinpoint how buyer friction leads to stalled pipelines, longer sales cycles, or lost deals.
 
-### Areas of fus
+### Areas of focus
 
 - AI agents and skills for GTM research and execution
 - Data products and new commercial applications for technical IP
