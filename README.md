@@ -14,7 +14,7 @@ An interactive assessment that identifies where a company's positioning, messagi
 
 ### Areas of focus
 
-- AI agents and skills for GTM research and execution
+- AI agents and skills for GTM research and execution.  
 - Data products and new commercial applications for technical IP
 - AI-assisted prototyping and applications
 
@@ -23,6 +23,7 @@ An interactive assessment that identifies where a company's positioning, messagi
 I'm interested in how AI agents and open-source tools can help small GTM teams punch above their weight.
 
 - **[Newsjack](https://github.com/elvisun/newsjack)** by elvisun: Open-source AI skills for PR, media outreach, and communications. Particularly interesting for founding GTM teams without dedicated PR resources.
+- **[CFP Scout] (https://ssv33.github.io/cfp-scout)** by ssv33: Open-source research tool for earned event speaking slots for B2B tech companies.
 - **[AI GTM Skills](https://github.com/GTMify/aigtm)** by GTMify: Agent skills for prospect research, meeting preparation, pipeline management, and GTM execution.
 ### Elsewhere
 
