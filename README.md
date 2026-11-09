@@ -6,11 +6,15 @@ I work with early-stage and growth stage technical founders on positioning, prod
 
 I'm also experimenting with AI and lightweight applications to solve problems I encounter in go-to-market work.
 
-### Things I'm building
+### Things I'm building for clients
 
 **[Story Line](https://buyer-journey-drift.vercel.app/)**
 
 An interactive assessment that identifies where a company's positioning, messaging, and buyer journey fall out of alignment across its website and owned digital channels. The value to the CMO/CRO/CEO trio: Storyline helps me pinpoint how buyer friction leads to stalled pipelines, longer sales cycles, or lost deals.
+
+**[Earned Event Speaker Opportunity Scout](https://github.com/ssv33/cfp-scout)**
+
+An open-source app for turning conference speaking research into a repeatable workflow. It generates a company-specific research brief and tracks CFP deadlines, fit, and submission status. [Try the live app](https://ssv33.github.io/cfp-scout/).
 
 ### Areas of focus
 
